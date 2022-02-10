@@ -2,12 +2,32 @@
 
 Project 1:
 
-[Cthulhu themed website](https://svegresch.github.io/Flex-Website/)
+[Cthulhu Themed Website](https://svegresch.github.io/Flex-Website/)
 
 This is the result of a small school project from the very beginning of our training. 
 The task was to do some research into CSS flexbox and then use it to build a simple website. 
 
+
+Project 2: 
+
+[First Java Project](https://github.com/svegresch/The-Automated-Chaos-Mage)
+
+Very first Java project from the beginning of our training. 
+(We hadn't started object orientation at that stage.)
+
+
+Project 3: 
+
+[Ukulele-Stammtisch Mannheim](https://www.facebook.com/UkuleleMA)
+
+I maintain the facebook page for our local ukulele club.
+(Unfortunately somewhat inactive at the moment, du to Corona restricitons.)
+
+
+
 (More projects coming soon.)
+
+
 
 
 
