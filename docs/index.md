@@ -43,5 +43,5 @@ I maintain the facebook page for our local ukulele club.
 
 
 
-
+<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 
