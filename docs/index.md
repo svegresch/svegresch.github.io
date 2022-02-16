@@ -21,7 +21,7 @@ Project 3:
 [Ukulele-Stammtisch Mannheim](https://www.facebook.com/UkuleleMA)
 
 I maintain the facebook page for our local ukulele club.
-(Unfortunately somewhat inactive at the moment, due to Corona restricitons.)
+(Unfortunately somewhat inactive at the moment, due to Corona restrictions.)
 
 
 
