@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Portfolio
+title: My GitHub Page
 url: https://svegresch.github.io/
-description: Add description.
+description: Created February 2022
 plugins:
   - jekyll-feed
