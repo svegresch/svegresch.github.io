@@ -30,7 +30,6 @@ I maintain the facebook page for our local ukulele club.
 
 [Xing](https://www.xing.com/profile/Svenja_Schmidtke/cv)
 [linkedin](https://www.linkedin.com/in/svenjaschmidtke/)
-[GitHub](https://github.com/svegresch)
 [get-in-it](https://www.get-in-it.de/profil/MGKlsBkALJ9HZE2bE2UMTkj29p8zvoB4)
 
 
