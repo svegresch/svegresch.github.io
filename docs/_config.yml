@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title:
-url:
-description:
+title: Portfolio
+url: https://svegresch.github.io/
+description: Add description.
 plugins:
   - jekyll-feed
